@@ -1,3 +1,4 @@
 # dependencies
 /ecomm/container/node_modules
 /ecomm/products/node_modules
+/ecomm/cart/node_modules
